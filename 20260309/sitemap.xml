@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/20260309/</loc>
+         <lastmod>2026-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/20260309/Point/</loc>
+         <lastmod>2026-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/20260309/SpatialThing/</loc>
+         <lastmod>2026-03-09</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/20260309/WGS84Pattern/</loc>
+         <lastmod>2026-03-09</lastmod>
+    </url>
+</urlset>
