@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/2026-07-24_16-59-13/</loc>
+         <lastmod>2026-07-24</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/2026-07-24_16-59-13/classes/Point/</loc>
+         <lastmod>2026-07-24</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/2026-07-24_16-59-13/classes/SpatialThing/</loc>
+         <lastmod>2026-07-24</lastmod>
+    </url>
+    <url>
+         <loc>https://isotc204.org/ontology-import-wgs84/2026-07-24_16-59-13/properties/location/</loc>
+         <lastmod>2026-07-24</lastmod>
+    </url>
+</urlset>

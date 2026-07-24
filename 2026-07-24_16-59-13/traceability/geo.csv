@@ -1,0 +1,12 @@
+id,qname,heading,text,type,diagram,website,updated
+,SpatialThing,SpatialThing,"Anything with spatial extent, i.e. size, shape, or position.
+ e.g. people, places, bowling balls, as well as abstract areas like cubes.
+",Class,http://www.w3.org/2003/01/geo/wgs84_pos/diagrams/SpatialThing.dot.svg,http://www.w3.org/2003/01/geo/wgs84_pos/SpatialThing,2026-07-24T12:42:57.549208
+,Point,point,"A point, typically described using a coordinate system relative to Earth, such as WGS84.",Class,http://www.w3.org/2003/01/geo/wgs84_pos/diagrams/Point.dot.svg,http://www.w3.org/2003/01/geo/wgs84_pos/Point,2026-07-24T12:42:57.549208
+,location,location,"The relation between something and the point,
+ or other geometrical thing in space, where it is.  For example, the realtionship between
+ a radio tower and a Point with a given lat and long.
+ Or a relationship between a park and its outline as a closed arc of points, or a road and
+ its location as a arc (a sequence of points).
+ Clearly in practice there will be limit to the accuracy of any such statement, but one would expect
+ an accuracy appropriate for the size of the object and uses such as ma",ObjectProperty,,http://www.w3.org/2003/01/geo/wgs84_pos/location,2026-07-24T12:42:57.549208
