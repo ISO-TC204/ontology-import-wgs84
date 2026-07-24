@@ -1,0 +1,14 @@
+# location
+
+The relation between something and the point,
+ or other geometrical thing in space, where it is.  For example, the realtionship between
+ a radio tower and a Point with a given lat and long.
+ Or a relationship between a park and its outline as a closed arc of points, or a road and
+ its location as a arc (a sequence of points).
+ Clearly in practice there will be limit to the accuracy of any such statement, but one would expect
+ an accuracy appropriate for the size of the object and uses such as mapping .
+ 
+
+**Range**: [SpatialThing](../classes/SpatialThing.md)
+
+**IRI**: `http://www.w3.org/2003/01/geo/wgs84_pos/location`

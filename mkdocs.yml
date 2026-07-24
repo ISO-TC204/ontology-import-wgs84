@@ -2,11 +2,16 @@ site_name: The WGS84 Ontology
 site_description: The WGS84 ontology converted into a website
 repo_url: https://github.com/ISO-TC204/ontology-import-wgs84
 nav:
-- Home: index.md
-- WGS84 Pattern:
-  - WGS84 Pattern: WGS84Pattern.md
-  - Point: Point.md
-  - Spatial Thing: SpatialThing.md
+- TC204 on ISO.org: https://www.iso.org/committee/54706.html
+- TC 204 Home: https://isotc204.org/
+- RITSO Home: https://isotc204.org/ritso/
+- The WGS84 Ontology:
+  - Home: index.md
+  - Classes:
+    - Point: classes/Point.md
+    - Spatial Thing: classes/SpatialThing.md
+  - Properties:
+    - location: properties/location.md
 site_url: https://isotc204.org/ontology-import-wgs84/
 copyright: <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
   <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank"
@@ -22,6 +27,8 @@ theme:
   - content.tooltips
   - icons
   - navigation.path
+  - navigation.tabs
+  - navigation.tabs.sticky
   - navigation.top
   icon:
     repo: fontawesome/brands/github
